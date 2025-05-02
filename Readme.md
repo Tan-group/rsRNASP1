@@ -26,7 +26,7 @@ bash install.sh
 # Help is displayed if run rsRNASP1 without parameters
 
 #######################################################
-# Calculate rsRNASP_rna score for a pdb or a list of pdbs
+# Calculate rsRNASP1 score for a pdb or a list of pdbs
 #######################################################
 Usage: ./bin/rsRNASP1 pdb 
    or: ./bin/rsRNASP1 [ options ] 
