@@ -17,19 +17,19 @@ make
 
 Note: after compilation, You can manually set environment variable rsRNASP_RNA_HOME to the source directory of rsRNASP-RNA so the energy files can be detected, or run the following script 
 
-install.sh 
+bash install.sh 
 
 
 # Usage
 
 ```
-# Help is displayed if run rsRNASP_rna without parameters
+# Help is displayed if run rsRNASP1 without parameters
 
 #######################################################
 # Calculate rsRNASP_rna score for a pdb or a list of pdbs
 #######################################################
-Usage: ./bin/rsRNASP_rna pdb 
-   or: ./bin/rsRNASP_rna [ options ] 
+Usage: ./bin/rsRNASP1 pdb 
+   or: ./bin/rsRNASP1 [ options ] 
 Options:
    pdb [ pdb2 pdb3 ...], input RNA structures in pdb format
    -d directory,         OPTIONAL, override default directory of energyfiles
