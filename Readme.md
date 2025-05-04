@@ -1,7 +1,7 @@
 
 
 # rsRNASP1
-rsRNASP1: a distance and torsion-angle dependent scoring function with residue separation for RNA 3D structure evaluation.
+rsRNASP1: a distance and torsion-angle dependent statistical potential with residue separation for RNA 3D structure evaluation.
 
 
 # Install
@@ -56,5 +56,5 @@ Options:
 
 
 # Reference:
-[1] Lou E, Zheng C, Yu S, Tan YL, & Tan ZJ. rsRNASP1: a distance and torsion-angle dependent scoring function with residue separation for RNA 3D structure evaluation. In preparation.
+[1] Lou E, Zheng C, Yu S, Tan YL, & Tan ZJ. rsRNASP1: a distance and torsion-angle dependent statistical potential with residue separation for RNA 3D structure evaluation. In preparation.
 
