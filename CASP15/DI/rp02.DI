@@ -1,0 +1,13 @@
+2_solution_0.pdb    0.0
+2_bujnicki_1_rpr.pdb      2.9739285793881747
+2_das_2_rpr.pdb      3.5362601590643243
+2_santalucia_1_rpr.pdb      4.325805072349685
+2_bujnicki_2_rpr.pdb      2.8015243576607634
+2_das_3_rpr.pdb      3.505801094991589
+2_bujnicki_3_rpr.pdb      2.8497572243336524
+2_das_4_rpr.pdb      3.273694483044524
+2_wildauer_1_rpr.pdb      4.378417487117472
+2_chen_1_rpr.pdb      3.714784511224939
+2_das_5_rpr.pdb      3.989384668940417
+2_das_1_rpr.pdb      2.777689307516589
+2_dokholyan_1_rpr.pdb      3.0770194981338177
