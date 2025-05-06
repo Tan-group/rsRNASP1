@@ -1,0 +1,13 @@
+3_solution_0_rpr.pdb     0.0
+3_bujnicki_1_rpr.pdb      17.117199068177058
+3_das_3_rpr.pdb      23.321379754632357
+3_major_1_rpr.pdb      45.20583533945515
+3_bujnicki_2_rpr.pdb      21.586483643550732
+3_das_4_rpr.pdb      25.103698590287866
+3_major_2_rpr.pdb      23.528945606109463
+3_chen_1_rpr.pdb      10.315515560690022
+3_das_5_rpr.pdb      16.569770243072437
+3_das_1_rpr.pdb      21.426682398877148
+3_dokholyan_1_rpr.pdb      23.762986939841777
+3_das_2_rpr.pdb      16.537623333984655
+3_dokholyan_2_rpr.pdb      15.97290671107481

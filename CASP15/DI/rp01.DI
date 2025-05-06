@@ -1,0 +1,15 @@
+1_solution_0_rpr.pdb      0.0
+1_das_3_rpr.pdb      3.677596355787813
+1_bujnicki_1_rpr.pdb      6.469171451152418
+1_das_4_rpr.pdb      4.320609954188523
+1_bujnicki_2_rpr.pdb      8.000861385262725
+1_das_5_rpr.pdb      5.366229010546911
+1_bujnicki_3_rpr.pdb      6.548291379262025
+1_dokholyan_1_rpr.pdb      8.932025058069515
+1_bujnicki_4_rpr.pdb      6.884954508445566
+1_major_1_rpr.pdb      4.9704643533332264
+1_bujnicki_5_rpr.pdb      6.533887988602968
+1_santalucia_1_rpr.pdb      7.143600083798502
+1_chen_1_rpr.pdb      5.300402433390328
+1_das_1_rpr.pdb      4.329096732806626
+1_das_2_rpr.pdb      5.110664778389767
