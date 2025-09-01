@@ -52,9 +52,8 @@ Options:
 
 ```
 
+If you have any questions about rsRNASP1, please contact us by the email: zjtan@whu.edu.cn .
 
-
-
-# Reference:
-[1] Lou E, Zheng C, Yu S, Tan YL, & Tan ZJ. rsRNASP1: a distance and torsion-angle dependent statistical potential with residue separation for RNA 3D structure evaluation. Biophys J 2025;124:2740–53. doi:10.1016/j.bpj.2025.07.013
+Reference:
+[1] Lou E, Zheng C, Yu S, Tan YL, & Tan ZJ. rsRNASP1: a distance- and dihedral-dependent statistical potential for RNA 3D structure evaluation. Biophys J 2025;124:2740–53. doi:10.1016/j.bpj.2025.07.013
 
